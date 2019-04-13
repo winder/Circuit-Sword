@@ -1,4 +1,3 @@
-# Circuit Sword Software
-Power management and safe shutdown software for the Circuit Sword.
+# Restored wiki
 
-## [Download](https://github.com/kiteretro/Circuit-Sword/releases)
+https://github.com/winder/Circuit-Sword/wiki/Original-Case-Mod-Guide
